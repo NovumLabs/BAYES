@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Generated output (keep reports/.gitkeep)
+reports/*.json
+artifacts/*
+!artifacts/README.md
+data/*
+!data/README.md

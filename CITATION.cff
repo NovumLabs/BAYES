@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use BAYES, cite the repository and the specific release or commit used."
+title: "BAYES: An Autonomous Scientific Discovery Engine"
+type: software
+authors:
+  - name: "Novum Labs Private Limited"
+version: 0.1.0
+date-released: 2026-10-22
+repository-code: "https://github.com/NovumLabs/BAYES"
+abstract: "A research prototype for hypothesis-driven computational experimentation, verification, and reproducible research records."

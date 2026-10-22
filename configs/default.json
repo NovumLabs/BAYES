@@ -1,0 +1,14 @@
+{
+  "project": "BAYES",
+  "prototype_version": "0.1.0",
+  "demo": {
+    "max_n": 10
+  },
+  "run_record": {
+    "format": "json"
+  },
+  "safety": {
+    "allow_arbitrary_code_execution": false,
+    "allow_network_access_by_default": false
+  }
+}
